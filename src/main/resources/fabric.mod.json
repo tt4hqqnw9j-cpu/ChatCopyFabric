@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "name": "ChatCopyFabric",
   "description": "Standalone chat copy mod extracted from SkyHanni",
-  "authors": ["akihiro"],
+  "authors": ["blacktiger"],
   "license": "LGPL-2.1",
   "environment": "client",
   "entrypoints": {
