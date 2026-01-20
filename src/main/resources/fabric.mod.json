@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "chatcopyfabric",
+  "version": "1.0.0",
+  "name": "ChatCopyFabric",
+  "description": "Standalone chat copy mod extracted from SkyHanni",
+  "authors": ["akihiro"],
+  "license": "LGPL-2.1",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.akihiro.chatcopy.ChatCopyFabric"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": "1.21.5"
+  }
+}
